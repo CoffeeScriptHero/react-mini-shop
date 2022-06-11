@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Мобильный телефон iPhone 3GS",
+    "price": 99999,
+    "src": "/images/iphone-1.png",
+    "id": 1,
+    "color": "черный"
+  },
+  {
+    "name": "Мобильный телефон iPhone 4",
+    "price": 200,
+    "src": "/images/iphone-4.png",
+    "id": 2,
+    "color": "черный"
+  },
+  {
+    "name": "Мобильный телефон iPhone 4S",
+    "price": 3000,
+    "src": "/images/iphone-4s.png",
+    "id": 3,
+    "color": "черный"
+  },
+  {
+    "name": "Мобильный телефон iPhone 5",
+    "price": 5094,
+    "src": "/images/iphone-5.png",
+    "id": 4,
+    "color": "зеленый"
+  },
+  {
+    "name": "Мобильный телефон iPhone 5S",
+    "price": 1499,
+    "src": "/images/iphone-5s.png",
+    "id": 5,
+    "color": "белый"
+  },
+  {
+    "name": "Мобильный телефон iPhone 6",
+    "price": 180,
+    "src": "/images/iphone-6.png",
+    "id": 6,
+    "color": "серый"
+  },
+  {
+    "name": "Мобильный телефон iPhone 6S",
+    "price": 199,
+    "src": "/images/iphone-6.png",
+    "id": 7,
+    "color": "серый"
+  },
+  {
+    "name": "Мобильный телефон iPhone 8",
+    "price": 499,
+    "src": "/images/iphone-8.png",
+    "id": 8,
+    "color": "белый"
+  },
+  {
+    "name": "Мобильный телефон iPhone 8 Plus",
+    "price": 699,
+    "src": "/images/iphone-8.png",
+    "id": 9,
+    "color": "белый"
+  },
+  {
+    "name": "Мобильный телефон iPhone X",
+    "price": 10,
+    "src": "/images/iphone-x.png",
+    "id": 10,
+    "color": "фиолетовый"
+  }
+]
